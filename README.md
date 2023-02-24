@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lenoctambule/lenoctambule/main/oekintaro.gif" height=200vh>
+  <img src="https://media.tenor.com/L1kmSQmhrjMAAAAd/golden-boy-kintaro.gif" height=200vh>
 </p>
   
 ### Hi, I'm Ravaka. Just a tech :sunglasses:
