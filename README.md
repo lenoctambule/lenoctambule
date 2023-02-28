@@ -9,3 +9,5 @@ I'm a generalist software dev with a pluridisciplinary background. I'm highly in
 ---
 [![](https://visitcount.itsvg.in/api?id=lenoctambule&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
+![lenoctambule](https://www.hackthebox.eu/badge/image/430731)
+
