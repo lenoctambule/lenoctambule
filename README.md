@@ -11,8 +11,6 @@ I'm highly interested and invested in the study of nonlinear dynamical system an
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenoctambule)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoctambule&layout=compact&theme=onedark)](https://github.com/lenoctambule)
 
 [![lenoctambule](https://www.hackthebox.eu/badge/image/430731)](https://app.hackthebox.com/profile/430731)
