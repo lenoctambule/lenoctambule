@@ -4,8 +4,9 @@
   
 ### Hi, I'm Ravaka. Just a tech :sunglasses:
 
-I am a generalist software developper.
-I'm highly interested and invested in the study of nonlinear dynamical system and applying this knowledge to help us think, decide and act sustainably. I'm currently working on a novel causal inference method designed to address the difficulty of determining causal relationships within systems composed of more than two components.
+👋 I am a generalist software developper.
+- I'm highly interested and invested in the study of 🌪️ nonlinear dynamical system 🌪️ and applying this knowledge to help us think, decide and act 🌍 sustainably 🌍.
+- I'm currently working on a novel causal inference method designed to address the difficulty of determining causal relationships within systems composed of more than two components.
 
 [My Website](https://lenoctambule.dev)
 
