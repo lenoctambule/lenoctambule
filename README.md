@@ -4,11 +4,14 @@
   
 ### Hi, I'm Ravaka. Just a tech :sunglasses:
 
-I'm a generalist software dev with a pluridisciplinary background. I'm highly interested and invested in applications of complex systems science.
+I am a generalist software developper.
+I'm highly interested and invested in the study of nonlinear dynamical system and applying this knowledge to help us think, decide and act sustainably. I'm currently working on a novel causal inference method designed to address the difficulty of determining causal relationships within systems composed of more than two components.
 
 [My Website](https://lenoctambule.dev)
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenoctambule)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoctambule&layout=compact&theme=onedark)](https://github.com/lenoctambule)
 
