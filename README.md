@@ -1,14 +1,15 @@
 <p align="center">
   <img src="https://media.tenor.com/L1kmSQmhrjMAAAAd/golden-boy-kintaro.gif" height=200vh>
 </p>
-  
+
+[My Website](https://lenoctambule.dev)
+
 ### Hi, I'm Ravaka. Just a tech :sunglasses:
 
 👋 I am a generalist software developper.
 - I'm highly interested and invested in the study of 🌪️ nonlinear dynamical system 🌪️ and applying this knowledge to help us think, decide and act 🌍 sustainably 🌍.
-- I'm currently working on a novel causal inference method designed to address the difficulty of determining causal relationships within systems composed of more than two components.
+- I'm currently working on a novel causal inference method designed to address the difficulty of determining causal relationships and evaluating the consequences of an intervention.
 
-[My Website](https://lenoctambule.dev)
 
 ---
 
