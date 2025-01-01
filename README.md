@@ -1,19 +1,11 @@
-<p align="center">
-  <img src="https://media.tenor.com/L1kmSQmhrjMAAAAd/golden-boy-kintaro.gif" height=200vh>
-</p>
-
 [My Website](https://lenoctambule.dev)
 
 ### Hi, I'm Ravaka. Just a tech :sunglasses:
 
-👋 I am a generalist software developper.
-- I'm highly interested and invested in the study of 🌪️ nonlinear dynamical system 🌪️ and applying this knowledge to help us think, decide and act 🌍 sustainably 🌍.
-- I'm currently working on a novel causal inference method designed to address the difficulty of determining causal relationships and evaluating the consequences of an intervention.
-
+👋 I am a software engineer. In my spare time, I like to find software vulnerabilities, doing CTFs and trying to build the next big thing .
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoctambule&layout=compact&theme=onedark)](https://github.com/lenoctambule)
-
 [![lenoctambule](https://www.hackthebox.eu/badge/image/430731)](https://app.hackthebox.com/profile/430731)
 
